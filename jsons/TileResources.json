@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Тяжелая Нефть",
+		"resourceType": "Strategic",
+		"revealedBy": "Biology",
+		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle"],
+    "icon": "oil",
+		"production": 1,
+		"improvedBy": ["Oil well", "Offshore Platform"],
+		"improvementStats": {"production": 2},
+		"uniques": ["Deposits in [Coast] tiles always provide [4] resources",
+					"Guaranteed with Strategic Balance resource option",
+					"Generated with weight [90] <in [Marsh] tiles> <in tiles without [Hill]>",
+					"Generated with weight [45] <in [{Featureless} {Tundra}] tiles>",
+					"Generated with weight [40] <in [{Featureless} {Snow}] tiles>",
+					"Generated with weight [80] <in [{Featureless} {Desert}] tiles>",
+					"Generated with weight [100] <in [{Featureless} {Coast}] tiles>",
+					"Minor deposits generated with weight [30] <in [Marsh] tiles> <in tiles without [Hill]>",
+					"Minor deposits generated with weight [30] <in [Jungle] tiles> <in tiles without [Hill]>",
+					"Minor deposits generated with weight [20] <in [{Featureless} {Desert}] tiles>",
+					"Minor deposits generated with weight [15] <in [{Featureless} {Tundra}] tiles>",
+					"Minor deposits generated with weight [10] <in [{Featureless} {Snow}] tiles>"],
+		"majorDepositAmount": {"sparse": 5, "default": 7, "abundant": 9},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
+  }
+]
