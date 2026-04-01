@@ -1,5 +1,9 @@
 
 Icons.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
 ResourceIcons/Тяжелая нефть
   rotate: false
   xy: 544, 152
