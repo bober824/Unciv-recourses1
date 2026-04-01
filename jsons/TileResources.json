@@ -1,6 +1,6 @@
 [
   {
-    "name": "Тяжелая Нефть",
+    "name": "Тяжелая нефть",
 		"resourceType": "Strategic",
 		"revealedBy": "Biology",
 		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle"],
