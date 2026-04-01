@@ -1,5 +1,9 @@
 
 Tilesets.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 TileSets/HexaRealm/Tiles/Тяжелая нефть
   rotate: false
   xy: 1657, 982
