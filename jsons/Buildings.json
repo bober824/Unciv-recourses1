@@ -2,7 +2,7 @@
 	{
 		"name": "Нефтезавод",
 		"maintenance": 1,
-		"cost": 600,
+		"cost": 360,
 		"food": -1,
 		"hurryCostModifier": 25,
 		"uniques": [
