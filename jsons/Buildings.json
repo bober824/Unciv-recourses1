@@ -8,7 +8,7 @@
 		"uniques": [
 			"Provides [2] [Oil]",
 			"[+1 Production] [in this city] <with [Тяжелая нефть]>",
-			"[-1 Food, +2 Production, +1 Gold] from [Тяжелая нефть] tiles [in this city]",
+			"[-1 Food, +2 Production, -1 happiness] from [Тяжелая нефть] tiles [in this city]",
 			"Consumes [4] [Тяжелая нефть]"
 		],
 		"requiredTech": "Biology"
