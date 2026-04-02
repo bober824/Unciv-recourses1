@@ -1,5 +1,9 @@
 
 DeCivBuildings.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 BuildingIcons/Нефтезавод
   rotate: false
   xy: 760, 976
