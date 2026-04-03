@@ -27,5 +27,17 @@
 		"requiredResource": "Бурый железняк",
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
+	},
+	{
+		"name": "Железный копейщик",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 13,
+		"cost": 70,
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
 	}
 ]
