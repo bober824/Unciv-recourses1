@@ -17,7 +17,7 @@
 		"unitType": "Siege",
 		"movement": 2,
 		"strength": 5,
-		"rangedStrength": 8,
+		"rangedStrength": 7,
 		"cost": 45,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
