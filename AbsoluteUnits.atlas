@@ -11,3 +11,17 @@ TileSets/AbsoluteUnits/Units/Камнемёт
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Примитивный мечник
+  rotate: false
+  xy: 726, 1222
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Железный копейщик
+  rotate: false
+  xy: 1859, 1414
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
