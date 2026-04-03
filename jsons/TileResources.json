@@ -26,7 +26,7 @@
 	{
 		"name": "Бурый железняк",
 		"resourceType": "Strategic",
-		"revealedBy": "Metal Casting",
+		"revealedBy": "Iron Working",
 		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Snow","Hill","Marsh"],
 		"production": 1,
 		"improvement": "Mine",
