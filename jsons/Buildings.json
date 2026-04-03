@@ -14,4 +14,26 @@
 		],
 		"requiredTech": "Biology"
 	},
+	{
+		"name": "Плавильня",
+		"maintenance": 1,
+		"cost": 150,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Бурый железняк"],
+		"requiredTech": "Metal Casting",
+		"uniques": [
+		"Provides [2] [Iron]",
+		"[+1 Production] from [Бурый железняк] tiles [in this city]"]
+	},
+	{
+		"name": "Литейный цех",
+		"maintenance": 1,
+		"cost": 300,
+		"food": -1,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Бурый железняк"],
+		"requiredTech": "Steel",
+		"uniques": [
+		"[+1 Production] from [Iron] tiles [in this city]"]
+	}
 ]
