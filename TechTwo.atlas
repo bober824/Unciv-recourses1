@@ -12,8 +12,8 @@ BuildingIcons/Литейный цех
   offset: 0, 0
   index: -1
 BuildingIcons/Плавильня
-  rotate: false
-  xy: 544, 730
+rotate: false
+  xy: 220, 190
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
