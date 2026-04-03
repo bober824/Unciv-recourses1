@@ -22,18 +22,20 @@
 		"requiredNearbyImprovedResources": ["Бурый железняк"],
 		"requiredTech": "Metal Casting",
 		"uniques": [
-		"Provides [2] [Iron]",
+		"Provides [1] [Iron]",
 		"[+1 Production] from [Бурый железняк] tiles [in this city]"]
 	},
 	{
 		"name": "Литейный цех",
 		"maintenance": 1,
 		"cost": 300,
-		"food": -1,
+		"food": -2,
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Бурый железняк"],
 		"requiredTech": "Steel",
 		"uniques": [
-		"[+1 Production] from [Iron] tiles [in this city]"]
+		"Provides [4] [Iron]",
+		"[+1 Production] from [Iron] tiles [in this city]",
+		"Consumes [10] [Бурый железняк]"]
 	}
 ]
