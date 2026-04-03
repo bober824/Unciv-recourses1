@@ -15,7 +15,7 @@
 		"requiredTech": "Biology"
 	},
 	{
-		"name": "Плавильная",
+		"name": "Плавильня",
 		"maintenance": 1,
 		"cost": 150,
 		"hurryCostModifier": 25,
