@@ -18,17 +18,3 @@ TileSets/HexaRealm/Tiles/Бурый железняк
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Units/Камнемёт
-  rotate: false
-  xy: 1174, 1860
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Units/Примитивный мечник
-  rotate: false
-  xy: 436, 196
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
