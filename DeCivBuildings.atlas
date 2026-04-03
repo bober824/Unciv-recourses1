@@ -11,3 +11,10 @@ BuildingIcons/Нефтезавод
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Литейный цех
+  rotate: false
+  xy: 760, 976
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
