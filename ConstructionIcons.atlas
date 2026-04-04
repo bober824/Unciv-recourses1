@@ -3,7 +3,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-UnitIcons/Spearman
+UnitIcons/Железный копейщик
   rotate: false
   xy: 1702, 856
   size: 100, 100
