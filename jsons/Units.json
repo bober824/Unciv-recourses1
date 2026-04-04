@@ -24,7 +24,6 @@
 		"upgradesTo": "Catapult",
 		"uniques": ["[+150]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
 			"Must set up to ranged attack", "[-1] Sight"],
-		"requiredResource": "Бурый железняк",
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	},
