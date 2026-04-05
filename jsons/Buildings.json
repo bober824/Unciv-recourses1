@@ -37,5 +37,15 @@
 		"Provides [4] [Iron]",
 		"[+1 Production] from [Бурый железняк] tiles [in this city]",
 		"Consumes [10] [Бурый железняк]"]
+	},
+	{
+		"name": "Загон верблюдов", 
+        "maintenance": 1,
+        "requiredNearbyImprovedResources": ["Верблюд"],
+        "hurryCostModifier": 25,
+        "uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+        "[+1 Production] from [Верблюд] tiles [in this city]"],
+		"cannotBeBuiltWith":  "Stable",
+        "requiredTech": "Horseback Riding"
 	}
 ]
