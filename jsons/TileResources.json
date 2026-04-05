@@ -46,5 +46,15 @@
 					"Minor deposits generated with weight [10] <in [{Featureless} {Snow}] tiles>"],
 		"majorDepositAmount": {"sparse": 5, "default": 8, "abundant": 12},
 		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4}
-	}
+	},
+	{
+	"name": "Верблюд",
+	"resourceType": "Strategic",
+	"terrainsCanBeFoundOn": ["Desert"],
+	"food": 1,
+	"improvement": "Pasture",
+	"improvementStats": {"production": 1, "food": 1},
+	"uniques": ["Generated on every [10] tiles <in [{Featureless} {Desert}] tiles>",
+				"Generated on every [15] tiles <in [{Featureless} {Desert}] tiles> <in [Hill] Regions>"]
+	},
 ]
