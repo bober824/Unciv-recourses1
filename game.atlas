@@ -17,3 +17,17 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+TileSets/FantasyHex/Tiles/Верблюд
+  rotate: false
+  xy: 1861, 2008
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Верблюд+Pasture
+  rotate: false
+  xy: 1844, 811
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
