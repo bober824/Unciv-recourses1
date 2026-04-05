@@ -4,7 +4,14 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-ResourceIcons/Camel
+ResourceIcons/Верблюд
+  rotate: false
+  xy: 712, 4
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+BuildingIcons/Загон верблюдов
   rotate: false
   xy: 712, 4
   size: 700, 700
