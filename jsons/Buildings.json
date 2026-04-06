@@ -47,5 +47,14 @@
         "[+1 Production] from [Верблюд] tiles [in this city]"],
 		"cannotBeBuiltWith":  "Stable",
         "requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Бронзовая плавильня",
+		"maintenance": 1,
+		"cost": 150,
+		"hurryCostModifier": 25,
+		"requiredTech": "Bronze Working",
+		"uniques": [
+		"Provides [2] [Бронза]","Consumes [1] [Олово]","Consumes [1] [Copper]"]
 	}
 ]
