@@ -82,7 +82,7 @@
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+15]% Strength <vs [Mounted] units>",],
 		"attackSound": "arrow"
-		//Camel archer should have no penalty attacking cities
+		//Camel Archer should have no penalty attacking cities
 	},
 	{
 		"name": "Тяжёлый верблюжий наездник",
