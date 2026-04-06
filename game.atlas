@@ -38,3 +38,10 @@ ResourceIcons/Ртуть
   orig: 200, 200
   offset: 0, 0
   index: -1
+ResourceIcons/Табак
+  rotate: false
+  xy: 1844, 851
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
