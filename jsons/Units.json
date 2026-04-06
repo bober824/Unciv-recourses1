@@ -70,7 +70,7 @@
 		"attackSound": "metalhit"
     },
 	{
-		"name": "Лучник на верблюде",
+		"name": "Camel archer",
 		"unitType": "Archery",
 		"movement": 3,
 		"strength": 10,
@@ -82,7 +82,7 @@
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+15]% Strength <vs [Mounted] units>",],
 		"attackSound": "arrow"
-		//Лучник на верблюде should have no penalty attacking cities
+		//Camel archer should have no penalty attacking cities
 	},
 	{
 		"name": "Тяжёлый верблюжий наездник",
