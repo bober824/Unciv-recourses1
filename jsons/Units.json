@@ -70,7 +70,7 @@
 		"attackSound": "metalhit"
     },
 	{
-		"name": "Camel archer",
+		"name": "Camel Archer",
 		"unitType": "Archery",
 		"movement": 3,
 		"strength": 10,
