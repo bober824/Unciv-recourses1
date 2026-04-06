@@ -78,7 +78,7 @@
 		"cost": 60,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Верблюд",
-		"upgradesTo": "Тяжелый верблюжий наездник",
+		"upgradesTo": "Тяжёлый верблюжий наездник",
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+15]% Strength <vs [Mounted] units>",],
 		"attackSound": "arrow"
