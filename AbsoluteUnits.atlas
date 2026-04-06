@@ -25,7 +25,14 @@ TileSets/AbsoluteUnits/Units/Железный копейщик
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Тяжелый верблюжьий наездник
+TileSets/AbsoluteUnits/Units/Тяжелый верблюжий наездник
+  rotate: false
+  xy: 1958, 1217
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Арабская кавалерия
   rotate: false
   xy: 1958, 1217
   size: 77, 80
