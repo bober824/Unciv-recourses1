@@ -92,7 +92,7 @@
 		"rangedStrength": 18,
 		"cost": 160,
 		"requiredTech": "Chivalry",
-		"requiredResource": ["Верблюд","Iron"],
+		"requiredResource": "Верблюд",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+25]% Strength <vs [Mounted] units>",],
