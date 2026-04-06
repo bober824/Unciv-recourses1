@@ -58,6 +58,13 @@
 				"Generated on every [15] tiles <in [{Featureless} {Desert}] tiles> <in [Hill] Regions>"]
 	},
 	{
+		"name": "Бронза",
+		"resourceType": "Luxury",
+		"revealedBy": "Bronze Working"
+		"gold": 2,
+		"production": 2,
+	},
+	{
 		"name": "Олово",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Hill","Grassland","Plains"],
@@ -70,12 +77,5 @@
 					"Generated with weight [20] <in [Grassland] Regions>",
 					"Generated with weight [10] <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]",
-	},
-	{
-		"name": "Бронза",
-		"resourceType": "Luxury",
-		"revealedBy": "Bronze Working"
-		"gold": 2,
-		"production": 2,
-	}
+			}
 ]
