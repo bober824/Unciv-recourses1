@@ -1,0 +1,20 @@
+
+Resources1.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ResourceIcons/Бронза
+  rotate: false
+  xy: 4, 412
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+ResourceIcons/Олово
+  rotate: false
+  xy: 820, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
