@@ -31,3 +31,10 @@ TileSets/FantasyHex/Tiles/Верблюд+Pasture
   orig: 32, 32
   offset: 0, 0
   index: -1
+ResourceIcons/Ртуть
+  rotate: false
+  xy: 1528, 1059
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
