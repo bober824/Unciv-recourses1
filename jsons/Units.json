@@ -68,7 +68,7 @@
 		"obsoleteTech": "Metallurgy",
         "requiredResource": "Iron",
 		"attackSound": "metalhit"
-},
+    },
 	{
 		"name": "Лучник на верблюде",
 		"unitType": "Archery",
@@ -97,7 +97,7 @@
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[+25]% Strength <vs [Mounted] units>",],
 		"attackSound": "arrow"
-		//Тяжелый верблюжийникould have no penalty attacking cities
+		//Тяжелый верблюжий наездник should have no penalty attacking cities
 	},
 	{
 		"name": "Арабская кавалерия",
