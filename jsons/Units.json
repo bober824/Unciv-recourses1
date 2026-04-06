@@ -68,5 +68,35 @@
 		"obsoleteTech": "Metallurgy",
         "requiredResource": "Iron",
 		"attackSound": "metalhit"
-}
+},
+	{
+		"name": "Camel Archer",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 10,
+		"rangedStrength": 9,
+		"cost": 60,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Верблюд",
+		"upgradesTo": "Тяжелый верблюжьий наездник",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+15]% Strength <vs [Mounted] units>",],
+		"attackSound": "arrow"
+		//Camel Archer should have no penalty attacking cities
+	},
+	{
+		"name": "Тяжёлый верблюжьий наездник",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 17,
+		"rangedStrength": 21,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Верблюд","Iron",
+		"upgradesTo": "Тяжелый верблюжьий наездник",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+25]% Strength <vs [Mounted] units>",],
+		"attackSound": "arrow"
+		//Camel Archer should have no penalty attacking cities
+	}
 ]
