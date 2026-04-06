@@ -18,3 +18,10 @@ TileSets/HexaRealm/Tiles/Бурый железняк
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Олово
+  rotate: false
+  xy: 328, 382
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
