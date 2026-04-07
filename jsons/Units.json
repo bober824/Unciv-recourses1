@@ -114,5 +114,18 @@
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Бронзовый копейщик",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 15,
+		"cost": 90,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"requiredResource": "Бронза",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
 	}
 ]
