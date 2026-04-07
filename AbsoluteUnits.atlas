@@ -46,3 +46,10 @@ TileSets/AbsoluteUnits/Units/Лучник на верблюде
   orig: 77, 80
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Бронзовый копейщик
+  rotate: false
+  xy: 520, 1517
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
