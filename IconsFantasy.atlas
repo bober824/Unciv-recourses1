@@ -4,3 +4,17 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
+ResourceIcons/Кукуруза
+  rotate: false
+  xy: 212, 606
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Какао
+  rotate: false
+  xy: 1252, 698
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
