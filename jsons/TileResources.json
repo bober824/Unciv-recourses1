@@ -100,18 +100,7 @@
 				"Generated near City States with weight [10]"]
 	},
 	{
-		"name": "Corn",
-		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert"],
-		"food": 1,
-		"improvedBy": ["Farm"],
-		"uniques": [
-			"Generated on every [30] tiles <in [{Featureless} {Grassland}] tiles>",
-			"Generated on every [20] tiles <in [{Featureless} {Plains}] tiles>",
-			"Generated on every [35] tiles <in [{Featureless} {Desert}] tiles>"
-	},
-	{
-		"name": "Cocoa",
+		"name": "Какао",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Jungle","Forest"],
 		"food": 1,
@@ -119,5 +108,16 @@
 		"improvedBy": ["Plantation"],
 		"improvementStats": {"food": 1, "gold": 1},
 		"uniques": ["Doesn't generate naturally <in [Tundra] tiles>"]
+	},
+	{
+	"name": "Кукуруза",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland","Plains","Desert"],
+		"food": 1,
+		"improvedBy": ["Farm"],
+		"uniques": [
+			"Generated on every [30] tiles <in [{Featureless} {Grassland}] tiles>",
+			"Generated on every [20] tiles <in [{Featureless} {Plains}] tiles>",
+			"Generated on every [35] tiles <in [{Featureless} {Desert}] tiles>"]
 	}
 ]
