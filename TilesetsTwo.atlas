@@ -1,0 +1,27 @@
+
+TilesetsTwo.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Tiles/Кукуруза
+  rotate: false
+  xy: 179, 585
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Grassland+Кукуруза+Farm
+  rotate: false
+  xy: 251, 683
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Plains+Кукуруза+Farm
+  rotate: false
+  xy: 395, 619
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
