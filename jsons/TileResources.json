@@ -123,7 +123,7 @@
 	{
 		"name": "Обсидиан",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Hill","Tundra","Jungle","Desert","Hybrid"],
+		"terrainsCanBeFoundOn": ["Hill","Tundra","Jungle","Desert"],
 		"gold": 1,
 		"improvement": "Quarry",
 		"improvementStats": {"gold": 1,"production": 1}
