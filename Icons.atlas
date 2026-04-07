@@ -18,3 +18,8 @@ ResourceIcons/Бурый железняк
   orig: 100, 100
   offset: 0, 0
   index: -1
+Icons2.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
