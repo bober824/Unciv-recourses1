@@ -45,3 +45,10 @@ UnitIcons/Бронзовый мечник
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Обсидиановый воин
+  rotate: false
+  xy: 1918, 748
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
