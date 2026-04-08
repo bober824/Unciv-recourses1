@@ -24,14 +24,14 @@ BuildingIcons/Textile Mill
   orig: 700, 700
   offset: 0, 0
   index: -1
-ResourceIcons/Potato
+ResourceIcons/Картошка
   rotate: false
   xy: 4, 712
   size: 700, 700
   orig: 700, 700
   offset: 0, 0
   index: -1
-ResourceIcons/Rice
+ResourceIcons/Рис
   rotate: false
   xy: 4, 4
   size: 700, 700
@@ -100,13 +100,13 @@ TileSets/FantasyHex/Tiles/Табак
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Potato
+TileSets/FantasyHex/Tiles/Картошка
   rotate: false
   xy: 704, 204
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
-  index: -1TileSets/FantasyHex/Tiles/Rice
+  index: -1TileSets/FantasyHex/Tiles/Рис
   rotate: false
   xy: 1924, 779
   size: 32, 28
