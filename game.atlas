@@ -106,7 +106,7 @@ TileSets/FantasyHex/Tiles/Картошка
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
-  index: -1TileSets/FantasyHex/Tiles/Рис
+  TileSets/FantasyHex/Tiles/Рис
   rotate: false
   xy: 1924, 779
   size: 32, 28
