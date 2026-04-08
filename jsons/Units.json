@@ -127,5 +127,18 @@
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Бронзовый мечник",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 13,
+		"cost": 70,
+		"requiredTech": "Bronze Working",
+		"upgradesTo": "Swordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Бронза",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
 ]
