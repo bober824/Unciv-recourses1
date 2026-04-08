@@ -60,3 +60,10 @@ TileSets/AbsoluteUnits/Units/Бронзовый мечник
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Обсидиановый воин
+  rotate: false
+  xy: 1756, 1325
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
