@@ -140,5 +140,18 @@
 		"requiredResource": "Бронза",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Обсидиановый воин",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 40,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Metal Casting",
+		"requiredResource": "Обсидиан",
+		"upgradesTo": "Примитивный мечник",
+		"uniques": ["May upgrade to [Бронзовый копейщик] through ruins-like effects"],
+		"attackSound": "nonmetalhit"
 	}
 ]
