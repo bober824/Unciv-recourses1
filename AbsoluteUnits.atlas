@@ -53,3 +53,10 @@ TileSets/AbsoluteUnits/Units/Бронзовый копейщик
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Бронзовый мечник
+  rotate: false
+  xy: 417, 1161
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
