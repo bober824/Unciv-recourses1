@@ -177,5 +177,30 @@
 		"uniques": ["[+3] Sight", "Withdraws before melee combat <with [80]% chance>"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Конная разведка",
+		"unitType": "Scout",
+		"movement": 4,
+		"strength": 9,
+		"cost": 65,
+		"requiredTech": "Civil Service",
+		"obsoleteTech": "Scientific Theory",
+		"requiredResource": "Horses",
+		"uniques": ["May upgrade to [Lancer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Musketman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"requiredResource": "Селитра",
+		"attackSound": "shot"
 	}
 ]
