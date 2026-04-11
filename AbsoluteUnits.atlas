@@ -76,9 +76,9 @@ TileSets/AbsoluteUnits/Units/Экспедиционное судно
   index: -1
 TileSets/AbsoluteUnits/Units/Колонизатор
   rotate: false
-  xy: 277, 608
-  size: 77, 70
-  orig: 77, 70
+  xy: 1550, 1428
+  size: 95, 81
+  orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Конная разведка
