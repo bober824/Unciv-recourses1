@@ -164,5 +164,18 @@
 			"Requires at least [5] population"],
 		"hurryCostModifier": 20,
 		//Ability to found new cities can only be used on a foreign continent.
+	},
+	{
+		"name": "Экспедиционное судно",
+		"unitType": "Ranged Water",
+		"movement": 7,
+		"strength": 10,
+		"cost": 150,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+3] Sight", "Withdraws before melee combat <with [80]% chance>"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
 	}
 ]
