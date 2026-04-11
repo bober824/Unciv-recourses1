@@ -32,3 +32,10 @@ TileSets/HexaRealm/Tiles/Обсидиан
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Селитра
+  rotate: false
+  xy: 459, 179
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
