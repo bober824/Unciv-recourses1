@@ -67,3 +67,10 @@ TileSets/AbsoluteUnits/Units/Обсидиановый воин
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Экспедиционное судно 
+  rotate: false
+  xy: 702, 441
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
