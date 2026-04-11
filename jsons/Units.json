@@ -157,8 +157,8 @@
 	{
 		"name": "Колонизатор",
 		"unitType": "Civilian",
-		"movement": 4,
-		"cost": 200,
+		"movement": 3,
+		"cost": 160,
 		"requiredTech": "Astronomy",
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [5] population"],
