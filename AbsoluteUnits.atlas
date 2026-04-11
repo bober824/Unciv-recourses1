@@ -11,9 +11,9 @@ TileSets/AbsoluteUnits/Units/Камнемёт
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Примитивный мечник
+TileSets/AbsoluteUnits/Units/Примитивный мечник 
   rotate: false
-  xy: 726, 1222
+  xy: 4, 166
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
