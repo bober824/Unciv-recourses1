@@ -25,3 +25,10 @@ ResourceIcons/Обсидиан
   orig: 200, 200
   offset: 0, 0
   index: -1
+ResourceIcons/Селитра
+  rotate: false
+  xy: 1900, 806
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
