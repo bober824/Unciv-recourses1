@@ -81,3 +81,10 @@ TileSets/AbsoluteUnits/Units/Колонизатор
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Конная разведка
+  rotate: false
+  xy: 362, 340
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
