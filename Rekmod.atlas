@@ -4,3 +4,10 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+UnitIcons/Экспедиционное судно
+  rotate: false
+  xy: 976, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
