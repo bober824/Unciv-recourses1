@@ -245,7 +245,7 @@
 		"uniques": ["Consumes [1] [Железо]"]
 	},
 	{
-		"name": "Пулемет Максима",
+		"name": "Пулемёт Максима",
 		"unitType": "Ranged Gunpowder",
 		"range": 1,
 		"movement": 2,
