@@ -18,3 +18,15 @@ ResourceIcons/Олово
   orig: 400, 400
   offset: 0, 0
   index: -1
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ResourceIcons/Свинец
+  rotate: false
+  xy: 412, 4
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
