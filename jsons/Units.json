@@ -228,5 +228,34 @@
 		"requiredResource": "Селитра",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Gatling Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 225,
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"requiredResource": "Селитра",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Пулемет Максима",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 35,
+		"rangedStrength": 40,
+		"cost": 270,
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"requiredResource": "Селитра",
+		"attackSound": "machinegun"
 	}
+		
 ]
