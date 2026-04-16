@@ -242,6 +242,7 @@
 		"obsoleteTech": "Ballistics",
 		"requiredResource": "Селитра",
 		"attackSound": "machinegun"
+		"uniques": ["Consumes [1] [Железо]"]
 	},
 	{
 		"name": "Пулемет Максима",
@@ -256,5 +257,6 @@
 		"obsoleteTech": "Ballistics",
 		"requiredResource": "Селитра",
 		"attackSound": "machinegun"
+		"uniques": ["Consumes [1] [Железо]","Consumes [1] [Свинец]"]
 	}
 ]
