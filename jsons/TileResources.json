@@ -186,7 +186,8 @@
 		"production": 2,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1}
-		"uniques": ["Generated with weight [30] <in [Desert] Regions>",
+		"uniques": ["Guaranteed with Strategic Balance resource option",
+			        "Generated with weight [30] <in [Desert] Regions>",
 					"Generated with weight [55] <in [Hill] Regions>",
 					"Generated with weight [20] <in [Plains] Regions>",
 			        "Generated with weight [30] <in [Tundra] Regions>",
