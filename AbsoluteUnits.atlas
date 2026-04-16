@@ -88,7 +88,7 @@ TileSets/AbsoluteUnits/Units/Конная разведка
   orig: 77, 70
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Пулемет Максима
+TileSets/AbsoluteUnits/Units/Пулемёт Максима
   rotate: false
   xy: 846, 365
   size: 64, 56
