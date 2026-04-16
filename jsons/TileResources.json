@@ -186,12 +186,14 @@
 		"production": 2,
 		"improvement": "Mine",
 		"improvementStats": {"production": 1}
-		"uniques": ["Generated with weight [25] <in [Desert] Regions>",
-					"Generated with weight [30] <in [Hill] Regions>",
-					"Generated with weight [5] <in [Plains] Regions>",
-					"Generated with weight [5] <in [Hybrid] Regions>",
+		"uniques": ["Generated with weight [30] <in [Desert] Regions>",
+					"Generated with weight [55] <in [Hill] Regions>",
+					"Generated with weight [20] <in [Plains] Regions>",
+					"Generated with weight [25] <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>",
 					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>"]
+		"majorDepositAmount": {"sparse": 7, "default": 10, "abundant": 14},
+		"minorDepositAmount": {"sparse": 3, "default": 5, "abundant": 6}
 	}
 ]
