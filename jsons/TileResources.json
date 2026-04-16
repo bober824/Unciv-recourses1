@@ -189,6 +189,7 @@
 		"uniques": ["Generated with weight [30] <in [Desert] Regions>",
 					"Generated with weight [55] <in [Hill] Regions>",
 					"Generated with weight [20] <in [Plains] Regions>",
+			        "Generated with weight [30] <in [Tundra] Regions>",
 					"Generated with weight [25] <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>",
