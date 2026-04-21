@@ -443,6 +443,12 @@
 				"row": 9,
 				"prerequisites": ["Fertilizer","Military Science"],
 				"quote": "'As soon as men decide that all means are permitted to fight an evil, then their good becomes indistinguishable from the evil that they set out to destroy.' - Christopher Dawson"
+			},
+			{
+				"name": "Бытовая Химия",
+				"row": 10,
+				"prerequisites": ["Fertilizer"],
+				"quote": "'.' - Christopher Dawson"
 			}
 		]
 	},
