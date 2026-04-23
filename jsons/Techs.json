@@ -531,7 +531,7 @@
 				"name": "Combustion",
 				"row": 8,
 				"prerequisites": ["Railroads"],
-                "uniques": ["[-50]% weight to this choice for AI decisions"],
+                "uniques": ["[+50]% weight to this choice for AI decisions"],
 				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
 			},
 			{
