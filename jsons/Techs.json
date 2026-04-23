@@ -573,7 +573,7 @@
 			{
 				"name": "Combined Arms",
 				"row": 8,
-				"prerequisites": ["Ballistics","Combustion"],
+				"prerequisites": ["Ballistics","Combustion","Моторизованная война"],
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
 			}
 		]
