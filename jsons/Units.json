@@ -258,5 +258,19 @@
 		"requiredResource": "Селитра",
 		"attackSound": "machinegun"
 		"uniques": ["Consumes [1] [Iron]","Consumes [1] [Свинец]"]
+	},
+	{
+		"name": "Landship",
+		"unitType": "Armored",
+		"movement": 4,
+		"strength": 60,
+		"cost": 350,
+		"requiredTech": "Railroads",
+		"requiredResource": "Oil",
+		"upgradesTo": "Tank",
+		"obsoleteTech": "Combined Arms",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+		"uniques": ["Consumes [1] [Iron]","Consumes [1] [Селитра]"]
 	}
 ]
