@@ -509,7 +509,7 @@
 		"wonderCost": 1250,
 		"techs": [
 			{
-				"name": "Plastics",
+				"name": "Моторизированная война",
 				"row": 3,
 				"prerequisites": ["Radio","Replaceable Parts"],
                 "uniques": ["[+200]% weight to this choice for AI decisions"],
@@ -533,6 +533,13 @@
 				"prerequisites": ["Railroads"],
                 "uniques": ["[-50]% weight to this choice for AI decisions"],
 				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
+			},
+			{
+				"name": "Plastics",
+				"row": 10,
+				"prerequisites": ["Бытовая Химия"],
+                "uniques": ["[+200]% weight to this choice for AI decisions"],
+				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
 			}
 		]
 	},
