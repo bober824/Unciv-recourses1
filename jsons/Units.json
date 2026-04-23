@@ -320,13 +320,13 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Пехота ВМВ винтовка",
+		"name": "Пехота ВМВ Винтовка",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 60,
 		"rangedStrength": 60,
 		"cost": 340,
-		"requiredTech": "Моторизованная война",
+		"requiredTech": "Моторизированная война",
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Combined Arms",
 		"requiredResource": "Селитра",
