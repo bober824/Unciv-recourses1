@@ -320,6 +320,21 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Foreign Legion",
+		"unitType": "Gunpowder",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "France",
+		"movement": 2,
+		"strength": 50,
+		"cost": 320,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Пехота ВМВ Винтовка",
+		"obsoleteTech": "Моторизированная война",
+		"requiredResource": "Селитра",
+		"uniques": ["[+20]% Strength <when fighting in [Foreign Land] tiles>"],
+		"attackSound": "shot"
+	}
+	{
 		"name": "Пехота ВМВ Винтовка",
 		"unitType": "Gunpowder",
 		"movement": 2,
