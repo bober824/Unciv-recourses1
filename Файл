@@ -41,7 +41,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-	"name": "Catapult",
+	    "name": "Catapult",
 		"unitType": "Siege",
 		"movement": 2,
 		"strength": 7,
@@ -57,7 +57,7 @@
 		"attackSound": "throw"
 	},
 	{
-	"name": "Pikeman",
+	    "name": "Pikeman",
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 16,
