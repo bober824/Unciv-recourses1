@@ -84,3 +84,73 @@
 		"attackSound": "arrow"
 		//Camel Archer should have no penalty attacking cities
 	},
+    {
+		"name": "Тяжёлый верблюжий наездник",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 17,
+		"rangedStrength": 18,
+		"cost": 160,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Верблюд",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[+25]% Strength <vs [Mounted] units>",],
+		"attackSound": "arrow"
+		//Тяжелый верблюжий наездник should have no penalty attacking cities
+	},
+	{
+		"name": "Арабская кавалерия",
+		"unitType": "Archery",
+		"replaces": "Тяжёлый верблюжий наездник",
+		"uniqueTo": "Arabia",
+		"movement": 4,
+		"strength": 17,
+		"rangedStrength": 21,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Верблюд",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Бронзовый копейщик",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 15,
+		"cost": 90,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"requiredResource": "Бронза",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Бронзовый мечник",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 13,
+		"cost": 70,
+		"requiredTech": "Bronze Working",
+		"upgradesTo": "Swordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Бронза",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Обсидиановый воин",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 40,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Metal Casting",
+		"requiredResource": "Обсидиан",
+		"upgradesTo": "Примитивный мечник",
+		"uniques": ["May upgrade to [Бронзовый копейщик] through ruins-like effects"],
+		"attackSound": "nonmetalhit"
+	},
